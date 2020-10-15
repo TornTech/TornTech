@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there 👋 my name is Ben.
 
-<!--
-**TornTech/TornTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After graduating from business school, I started my career in the consulting industry, but after three years I decided to make a career change and dive into software engineering!
 
+I am currently studying computer science at the University of British Columbia.
+
+Always looking to connect with new people. Feel free to message me at http://linkedin.com/in/bentorn
+
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
