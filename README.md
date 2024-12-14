@@ -1,11 +1,6 @@
 ### Hi there 👋 my name is Ben.
 
-After graduating from business school and starting my career in the consulting industry for three years, I decided to make a career change and dive into software engineering!
-
-I am currently studying computer science at the University of British Columbia.
-
-Always looking to connect with new people. Feel free to message me at http://linkedin.com/in/bentorn
-
+After graduating from business school and starting my career in the consulting industry for three years, I decided to make a career change and dive into software engineering.
 
 <!-- 
 Here are some ideas to get you started:
